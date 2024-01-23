@@ -1,0 +1,17 @@
+.
+..
+archivo.txt
+arguments.sh
+case.sh
+conditionals.sh
+continue_break.sh
+errors.txt
+file.txt
+helloworld.sh
+hola.txt
+logical_operator.sh
+loops.sh
+output.sh
+read.sh
+stderr_stdout.sh
+stdin.sh

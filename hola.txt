@@ -1,0 +1,6 @@
+hola kikeriveros
+bienvenido
+a este ejemplo de trabajando con bash
+este es un texto de prueba
+ya casi terminando de ver el video curso de bash script para principiantes
+a la larga la soledad es mejor que una mala compañia
